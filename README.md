@@ -1,5 +1,3 @@
-[![Header](https://ik.imagekit.io/ykxazfauisd/banner_t8ejvEKqt.gif)](https://wandersonsales.weebly.com/)<!-- If you want the template for my gif, email me! -->
-
 ## **Hi there** 🚀️
 
 ![Meu Site](https://img.shields.io/badge/-🧬%20My%20Website-000?)
