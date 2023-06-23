@@ -6,7 +6,7 @@
 
 <br/>
 
-I am graduated in Systems Analysis and Development and I study Web Development FullStack at Trybe.
+Graduated and postgraduate in Software Engineering, currently as a front-end developer at Squid 🚀
 
 ---
 
@@ -27,11 +27,14 @@ I am graduated in Systems Analysis and Development and I study Web Development F
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
+![Angular](https://img.shields.io/badge/Angular-35495E?logo=angular&color=black&logoColor=red)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?&logo=Vue.js&color=black)
-![Vue](https://img.shields.io/badge/Dart-35495E?&logo=Dart&color=black)
-![Vue](https://img.shields.io/badge/Swift-35495E?&logo=Swift&color=black)
-![Vue](https://img.shields.io/badge/Kotlin-35495E?&logo=Kotlin&color=black)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
+![Dart](https://img.shields.io/badge/Dart-35495E?&logo=Dart&color=black)
+![Sass](https://img.shields.io/badge/Sass-35495E?&logo=Sass&color=black)
+![Python](https://img.shields.io/badge/Python-35495E?&logo=Python&color=black)
+![Jest](https://img.shields.io/badge/Jest-35495E?&logo=Jest&color=black)
+![Testing Library](https://img.shields.io/badge/testing%20library-35495E?&logo=testing-library&color=black)
 
 <br/>
 
