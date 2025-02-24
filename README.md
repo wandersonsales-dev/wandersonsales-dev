@@ -6,7 +6,7 @@
 
 <br/>
 
-Graduated and postgraduate in Software Engineering, currently as a front-end developer at Squid 🚀
+Graduated and postgraduate in Software Engineering, currently as a front-end developer at OSF Digital 🚀
 
 ---
 
